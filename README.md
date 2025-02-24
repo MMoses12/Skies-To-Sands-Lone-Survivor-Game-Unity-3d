@@ -18,7 +18,7 @@ Do you have what it takes to **outsmart the enemy**, **scavenge for supplies**, 
 
 ---
 
-## Game Overview  
+## Game overview
 
 **Skies to Sands: Lone Survivor** offers an immersive survival experience where every decision matters.  
 As Ryan, a **stranded pilot**, you must navigate the **dense forests, rugged cliffs, and abandoned structures** of an island that hides a dark secret.
@@ -33,7 +33,7 @@ This is **not just a game**—it's a battle for survival. Will you be the **lone
 
 ---
 
-## Game Features  
+## Game features  
 
 - **Open-World Survival:** Explore an **expansive island** filled with **danger, mystery, and hidden secrets**.  
 - **Combat & Stealth Mechanics:** Engage in **intense firefights** with enemy soldiers or **sneak past guards** unnoticed.  
@@ -66,7 +66,7 @@ This is **not just a game**—it's a battle for survival. Will you be the **lone
 
 ---
 
-## Running the Game  
+## Running the game  
 - If you downloaded the **built version** (`Game` folder), simply **run the `.exe` file**.  
 - If you're running from Unity, **click "Play" in the Unity Editor** to start.  
 
@@ -85,7 +85,7 @@ This is **not just a game**—it's a battle for survival. Will you be the **lone
 
 ---
 
-## Game Analysis  
+## Game analysis  
 
 For a **deeper look** into the mechanics, features, and game design, refer to the **Game Design Documentation**:  
 
@@ -93,19 +93,19 @@ For a **deeper look** into the mechanics, features, and game design, refer to th
 
 ---
 
-## 📸 Photo Session - In-Game Screenshots  
+## 📸 Photo session - In-Game Screenshots  
 
-![] (ReadmePhotos/StartingMenu.png)
-![] (ReadmePhotos/SettingsMenu.png)
-![] (ReadmePhotos/LoadingScreen.png)
-![] (ReadmePhotos/StartingNarrative.png)
-![] (ReadmePhotos/PauseScreen.png)
-![] (ReadmePhotos/GameOverScreen.png)
-![] (ReadmePhotos/StartingMenu.png)
-![] (ReadmePhotos/Minimap.png)
+![](ReadmePhotos/StartingMenu.png)
+![](ReadmePhotos/SettingsMenu.png)
+![](ReadmePhotos/LoadingScreen.png)
+![](ReadmePhotos/StartingNarrative.png)
+![](ReadmePhotos/PauseScreen.png)
+![](ReadmePhotos/GameOverScreen.png)
+![](ReadmePhotos/StartingMenu.png)
+![](ReadmePhotos/Minimap.png)
 
 ---
 
-## 📺 Game Walkthrough - Watch It in Action!  
-🎥 **Check out the official gameplay demo here:**  
-📌 [**Watch the Gameplay Demo**](https://www.youtube.com/embed/EUUESBDZUpU)  
+## Game walkthrough - Watch It in Action!  
+**Check out the official gameplay demo here:**  
+[**Watch the Gameplay Demo**](https://www.youtube.com/embed/EUUESBDZUpU)  
