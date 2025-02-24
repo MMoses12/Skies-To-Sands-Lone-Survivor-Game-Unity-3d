@@ -13,7 +13,7 @@ Do you have what it takes to **outsmart the enemy**, **scavenge for supplies**, 
 - [Running the Game](#running-the-game)  
 - [Controls](#controls)  
 - [Game Analysis](#game-analysis)  
-- [Photo Session](#photo-session)  
+- [In Game Photos](#in-game-photos)  
 - [Game Walkthrough](#game-walkthrough)  
 
 ---
@@ -93,7 +93,7 @@ For a **deeper look** into the mechanics, features, and game design, refer to th
 
 ---
 
-## 📸 Photo session - In-Game Screenshots  
+## 📸 In game photos
 
 ![](ReadmePhotos/StartingMenu.png)
 ![](ReadmePhotos/SettingsMenu.png)
