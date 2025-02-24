@@ -6,19 +6,19 @@ Do you have what it takes to **outsmart the enemy**, **scavenge for supplies**, 
 
 ---
 
-## 📚 Table of Contents
-- [🎮 Game Overview](#game-overview)  
-- [🛠️ Game Features](#game-features)  
-- [💾 Installation](#installation)  
-- [🚀 Running the Game](#running-the-game)  
-- [🎮 Controls](#controls)  
-- [🔬 Game Analysis](#game-analysis)  
-- [📸 Photo Session](#photo-session)  
-- [📺 Game Walkthrough](#game-walkthrough)  
+## Table of Contents
+- [Game Overview](#game-overview)  
+- [Game Features](#game-features)  
+- [Installation](#installation)  
+- [Running the Game](#running-the-game)  
+- [Controls](#controls)  
+- [Game Analysis](#game-analysis)  
+- [Photo Session](#photo-session)  
+- [Game Walkthrough](#game-walkthrough)  
 
 ---
 
-## 🎮 Game Overview  
+## Game Overview  
 
 **Skies to Sands: Lone Survivor** offers an immersive survival experience where every decision matters.  
 As Ryan, a **stranded pilot**, you must navigate the **dense forests, rugged cliffs, and abandoned structures** of an island that hides a dark secret.
@@ -33,19 +33,19 @@ This is **not just a game**—it's a battle for survival. Will you be the **lone
 
 ---
 
-## 🛠️ Game Features  
+## Game Features  
 
-- **🌍 Open-World Survival:** Explore an **expansive island** filled with **danger, mystery, and hidden secrets**.  
-- **⚔️ Combat & Stealth Mechanics:** Engage in **intense firefights** with enemy soldiers or **sneak past guards** unnoticed.  
-- **🐺 Dynamic Wildlife System:** Beware of wolves and hunt small animals for **food and crafting materials**.  
-- **🌄 Interactive Minimap:** Displays **terrain, points of interest, and threats** for better navigation.  
-- **🎮 Inventory & Resource Management:** Manage your **weapons, ammo, medkits, and food** wisely.  
-- **📚 Engaging Narrative & Storytelling:** Unfold a **fully developed lore and backstory** as you explore.  
-- **🔄 Replayability & Multiple Playstyles:** Choose your strategy—**stealthy survivalist or fearless warrior**.  
+- **Open-World Survival:** Explore an **expansive island** filled with **danger, mystery, and hidden secrets**.  
+- **Combat & Stealth Mechanics:** Engage in **intense firefights** with enemy soldiers or **sneak past guards** unnoticed.  
+- **Dynamic Wildlife System:** Beware of wolves and hunt small animals for **food and crafting materials**.  
+- **Interactive Minimap:** Displays **terrain, points of interest, and threats** for better navigation.  
+- **Inventory & Resource Management:** Manage your **weapons, ammo, medkits, and food** wisely.  
+- **Engaging Narrative & Storytelling:** Unfold a **fully developed lore and backstory** as you explore.  
+- **Replayability & Multiple Playstyles:** Choose your strategy—**stealthy survivalist or fearless warrior**.  
 
 ---
 
-## 💾 Installation  
+## Installation  
 
 ### **Option 1: Running from Source (Unity Engine Required)**  
 1. **Clone this repository** to your local machine using Git:  
@@ -66,13 +66,13 @@ This is **not just a game**—it's a battle for survival. Will you be the **lone
 
 ---
 
-## 🚀 Running the Game  
+## Running the Game  
 - If you downloaded the **built version** (`Game` folder), simply **run the `.exe` file**.  
 - If you're running from Unity, **click "Play" in the Unity Editor** to start.  
 
 ---
 
-## 🎮 Controls  
+## Controls  
 
 | Action                 | Key |
 |------------------------|-----|
@@ -85,7 +85,7 @@ This is **not just a game**—it's a battle for survival. Will you be the **lone
 
 ---
 
-## 🔬 Game Analysis  
+## Game Analysis  
 
 For a **deeper look** into the mechanics, features, and game design, refer to the **Game Design Documentation**:  
 
@@ -95,7 +95,14 @@ For a **deeper look** into the mechanics, features, and game design, refer to th
 
 ## 📸 Photo Session - In-Game Screenshots  
 
-_(Add in-game screenshots here to showcase the game visually.)_  
+![] (ReadmePhotos/StartingMenu.png)
+![] (ReadmePhotos/SettingsMenu.png)
+![] (ReadmePhotos/LoadingScreen.png)
+![] (ReadmePhotos/StartingNarrative.png)
+![] (ReadmePhotos/PauseScreen.png)
+![] (ReadmePhotos/GameOverScreen.png)
+![] (ReadmePhotos/StartingMenu.png)
+![] (ReadmePhotos/Minimap.png)
 
 ---
 
