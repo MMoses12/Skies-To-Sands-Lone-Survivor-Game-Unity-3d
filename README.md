@@ -13,7 +13,7 @@ Do you have what it takes to **outsmart the enemy**, **scavenge for supplies**, 
 - [Running the Game](#running-the-game)  
 - [Controls](#controls)  
 - [Game Analysis](#game-analysis)  
-- [In Game Photos](#in-game-photos)  
+- [Screenshots](#screenshots)  
 - [Game Walkthrough](#game-walkthrough)  
 
 ---
@@ -89,11 +89,11 @@ This is **not just a game**—it's a battle for survival. Will you be the **lone
 
 For a **deeper look** into the mechanics, features, and game design, refer to the **Game Design Documentation**:  
 
-📊 **[Game Design Overview - .pptx](Final%20Presentation.pptx)**  
+**[Game Design Overview - .pptx](Final%20Presentation.pptx)**  
 
 ---
 
-## 📸 In game photos
+## Screenshots
 
 ![](ReadmePhotos/StartingMenu.png)
 ![](ReadmePhotos/SettingsMenu.png)
@@ -106,6 +106,6 @@ For a **deeper look** into the mechanics, features, and game design, refer to th
 
 ---
 
-## Game walkthrough - Watch It in Action!  
+## Game walkthrough 
 **Check out the official gameplay demo here:**  
 [**Watch the Gameplay Demo**](https://www.youtube.com/embed/EUUESBDZUpU)  
